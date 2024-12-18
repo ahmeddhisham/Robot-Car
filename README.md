@@ -1,4 +1,4 @@
-# Enhanced Robot Car Controller
+# Robot Car 
 
 This project is an improved version of a robot car controller designed for obstacle detection and motion control. It uses three ultrasonic sensors for distance measurement and a TB6612FNG motor driver to control the motors. The robot is capable of adjusting its movement based on real-time sensor data, performing obstacle avoidance maneuvers, and executing recovery actions when stuck.
 
